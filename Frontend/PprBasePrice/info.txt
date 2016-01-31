@@ -1,0 +1,2 @@
+Im Standard von Shopware werden im Ajax-Warenkorb und Warenkorb die gesetzlich vorgeschriebenen Grundpreise nicht angezeigt. Dieses Plugin berechnet die Grundpreise auch für Staffelpreise und zeigt sie im Ajax-Warenkorb und Warenkorb an.
+Durch CSS-Anweisungen kann das Design individuell gestaltet werden.
